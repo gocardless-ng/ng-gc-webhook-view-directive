@@ -1,0 +1,24 @@
+{
+  "name": "ng-gc-webhook-view",
+  "version": "0.1.0",
+  "main": "ng-gc-webhook-view.js",
+  "dependencies": {
+    "angular": "~1.2.5",
+    "ng-gc-filters": "git://github.com/gocardless-ng/ng-gc-filters.git"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.5",
+    "jasmine-helpers": "git@github.com:gocardless/jasmine-helpers.git"
+  },
+  "ignore": [
+    "**/.*",
+    "*/*spec.js",
+    "circle.yml",
+    "vendor-components.json",
+    "node_modules",
+    "components",
+    "package.json",
+    "Gruntfile.js",
+    "karma.conf.js"
+  ]
+}

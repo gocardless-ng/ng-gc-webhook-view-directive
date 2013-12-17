@@ -1,0 +1,7 @@
+[
+  "components/bower-angular/angular.js",
+  "components/bower-angular-mocks/angular-mocks.js",
+  "components/jasmine-helpers/*.js",
+  "components/ng-gc-base-app-service/services/app-config-service.js",
+  "src/**/*.spec.js"
+]
