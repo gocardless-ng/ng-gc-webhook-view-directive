@@ -1,7 +1,7 @@
 {
-  "name": "ng-gc-webhook-view",
+  "name": "ng-gc-webhook-view-directive",
   "version": "0.1.0",
-  "main": "ng-gc-webhook-view.js",
+  "main": "ng-gc-webhook-view-directive.js",
   "dependencies": {
     "angular": "~1.2.5",
     "ng-gc-filters": "git://github.com/gocardless-ng/ng-gc-filters.git"

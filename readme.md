@@ -1,6 +1,6 @@
-# ng-gc-webhook-view
+# ng-gc-webhook-view-directive
 
-![](https://circleci.com/gh/gocardless-ng/ng-gc-webhook-view.png?circle-token=:circle-token)
+![](https://circleci.com/gh/gocardless-ng/ng-gc-webhook-view-directive.png?circle-token=:circle-token)
 
 ## Copyright and license
 

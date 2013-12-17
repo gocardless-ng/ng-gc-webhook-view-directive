@@ -1,9 +1,9 @@
 {
-  "name": "ng-gc-webhook-view",
+  "name": "ng-gc-webhook-view-directive",
   "version": "0.2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gocardless-ng/ng-gc-webhook-view.git"
+    "url": "https://github.com/gocardless-ng/ng-gc-webhook-view-directive.git"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
